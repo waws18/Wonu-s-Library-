@@ -1,0 +1,6 @@
+{
+  "name": "wonu's library",
+  "description": "Aplikasi perpustakaan digital berbasis web dengan fitur peminjaman buku, manajemen koleksi, sistem pelaporan otomatis, serta dashboard admin dan member real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
